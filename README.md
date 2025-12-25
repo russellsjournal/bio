@@ -32,4 +32,3 @@ I’m over 50, still leveling up, and I’m proving in real time that anyone can
 - GitHub Actions (CI/CD)  
 - Rend
 # bio
-My resume and bio
